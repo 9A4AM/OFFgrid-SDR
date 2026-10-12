@@ -57,6 +57,8 @@ Most SDR software assumes you can download it, install it, and often fetch maps 
 - **Locked-down or shared computers.** Schools, libraries, work laptops and Chromebooks often block installing software. OFFgrid-SDR is just a page you open.
 - **Privacy.** Nothing leaves your computer. The page makes no network requests at all; your settings and memories stay in your browser. The one exception is the optional **Identify** menu, which looks up the tuned frequency online, and only when you click it.
 
+- **Demo Mode** Can be used for training in HAM labs or radio meetups. Great for teaching the up and coming generation interested in radio
+
 ---
 
 ![Main UI](screenshots/fax.png)
